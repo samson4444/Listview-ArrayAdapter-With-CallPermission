@@ -19,6 +19,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
+String s;
 
     private static final int REQUEST_CODE_FOR_PHONE_CALL = 1;
     private ListView listView;
